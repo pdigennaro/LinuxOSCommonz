@@ -121,7 +121,3 @@ A clean GPT dual-boot structure (Windows + Linux) looks like this:
 ---
 
 👉 So in short: the **MSR is just a tiny “reserved slot”** for Windows on GPT disks. You don’t interact with it directly, but it helps Windows stay happy long-term.
-
----
-
-Would you like me to show you a **step-by-step GParted partitioning layout** (with sizes and order) that works perfectly for a fresh **Windows + Linux dual boot**?
