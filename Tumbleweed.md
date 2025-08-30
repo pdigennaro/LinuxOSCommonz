@@ -30,3 +30,8 @@ sudo update-alternatives --config javac
 ```
 sudo zypper install libgthread-2_0-0
 ```
+
+### 5 Install some DEV packages
+```
+sudo zymmer in cmake gtk3-devel clang20 git-core
+```
