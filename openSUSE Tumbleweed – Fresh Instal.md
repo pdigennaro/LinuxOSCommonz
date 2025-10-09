@@ -20,7 +20,6 @@ nvidia-smi
 ```
 
 ---
-2️⃣
 
 ### 3️⃣ Java (Multiple JDK Versions)
 
@@ -28,8 +27,6 @@ Install JDKs:
 
 ```bash
 sudo zypper in java-21-openjdk java-21-openjdk-devel
-sudo zypper in java-17-openjdk-devel
-sudo zypper in java-16-openjdk-devel
 sudo zypper in java-24-openjdk-devel
 ```
 
@@ -48,8 +45,6 @@ javac -version
 ```
 
 ---
-
-4️⃣
 
 ### 5️⃣ Flutter & .NET SDK Setup
 
