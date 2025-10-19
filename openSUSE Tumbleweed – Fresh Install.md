@@ -21,6 +21,17 @@ nvidia-smi
 
 ---
 
+### Leap 16
+Install and enable Cockpit:
+
+```
+sudo zypper in -t pattern cockpit
+sudo systemctl enable --now cockpit.socket
+sudo systemctl status cockpit.socket
+```
+
+Now check in `https://localhost:9090`.
+
 ### 3️⃣ Java (Multiple JDK Versions)
 
 Install JDKs:
